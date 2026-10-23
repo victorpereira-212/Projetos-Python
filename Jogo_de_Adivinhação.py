@@ -1,6 +1,6 @@
 import random
 
-numero = random.randint(1, 2)
+numero = random.randint(1, 100)
 acertou = False
 contador = 0
 
